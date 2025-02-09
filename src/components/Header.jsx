@@ -5,6 +5,7 @@ import logo from "../assets/images/logo.png"
 import { useDarkMode } from './DarkModeContext'
 import { FaPhoneAlt, FaUserCircle } from 'react-icons/fa'
 
+
 const Header = () => {
 
   const {darkMode, toggleDarkmode} = useDarkMode();
