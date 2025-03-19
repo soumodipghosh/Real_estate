@@ -48,7 +48,6 @@ const{darkMode, toggleDarkMode} = useDarkMode();
               <FaYoutube className='size-5'/>
             </div>
           </div>
-          <h1 className='text-white mt-8'>Copyright Real Estate, All Rights Reserved</h1>
         </div>
         <div className='flex flex-col justify-center items-start gap-5'>
           <h1 className='text-white text-2xl font-semibold'>Contact Us</h1>

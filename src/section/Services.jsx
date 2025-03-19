@@ -25,9 +25,9 @@ const{darkMode, toggleDarkMode} = useDarkMode();
       <section id='services' className={`${darkMode ? "dark bg-gray-800" : "light bg-red-100"} 
       lg:w-[95%] w-full h-fit m-auto rounded-xl flex flex-col justify-center items-start lg:px-20 px-6 py-20 gap-10`}>
         <div className='flex flex-col justify-center items-start gap-4'>
-          <h1 data-aos="zoom-in" className='text-red-500 dark:text-white'>OUR SERVICES</h1>
+          <h1 data-aos="zoom-in" className='text-red-500'>OUR SERVICES</h1>
           <h1 data-aos="zoom-in" className='text-black text-[40px] font-semibold leading-10
-          dark:text-white'>Top real estate <br />services available</h1>
+          '>Top real estate <br />services available</h1>
         </div>
         <div id='service-box' className='grid lg:grid-cols-3 grid-cols-1 justify-center items-center gap-8'>
           {

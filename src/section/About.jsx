@@ -26,10 +26,10 @@ const{darkMode, toggleDarkMode} = useDarkMode();
         <img data-aos="zoom-in" src={aboutimg} alt="about img" className='rounded-2xl lg:w-[500px] lg:h-[600px]' />
       </div>
       <div className='flex flex-col justify-center items-start gap-8'>
-        <h1 data-aos="zoom-in" className='text-red-600 dark:text-white'>WHO WE ARE</h1>
-        <h1 data-aos="zoom-in" data-aos-delay="300" className='text-black dark:text-white text-[40px] font-semibold
+        <h1 data-aos="zoom-in" className='text-red-600'>WHO WE ARE</h1>
+        <h1 data-aos="zoom-in" data-aos-delay="300" className='text-black text-[40px] font-semibold
         leading-10'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h1>
-        <p data-aos="zoom-in" data-aos-delay="400" className='text-xl text-gray-600 dark:text-white
+        <p data-aos="zoom-in" data-aos-delay="400" className='text-xl text-gray-600
         text-justify'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi qui soluta suscipit odio quis, 
           mollitia natus fugit laboriosam ullam expedita amet in voluptatum.</p>
           <button className='bg-red-600 dark:bg-red-700 hover:bg-black dark:hover:bg-white

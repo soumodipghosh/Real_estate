@@ -39,10 +39,10 @@ const Contact = () => {
         </div>
 
         <div className='flex flex-col justify-center gap-8 lg:p-20 p-6'>
-          <h1 data-aos="zoom-in" data-aos-delay="200" className='text-red-500 dark:text-white'>REACH US</h1>
+          <h1 data-aos="zoom-in" data-aos-delay="200" className='text-red-500'>REACH US</h1>
           <h1 data-aos="zoom-in" data-aos-delay="400" className='text-black text-[40px] font-semibold leading-10
-          dark:text-white'>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</h1>
-          <p data-aos="zoom-in" data-aos-delay="500" className='text-xl text-gray-600 text-justify dark:text-white'>
+          '>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</h1>
+          <p data-aos="zoom-in" data-aos-delay="500" className='text-xl text-gray-600 text-justify'>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et assumenda in dolorum inventore 
             consequatur nesciunt voluptatem fugit eius neque perspiciatis.</p>
           <button className='bg-red-600 text-md px-8 py-3 text-white font-semibold rounded-xl

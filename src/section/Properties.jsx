@@ -25,9 +25,9 @@ const{darkMode, toggleDarkMode} = useDarkMode();
       <section id='properties' className='lg:w-[90%] m-auto lg:px-20 px-6 py-20 w-full flex flex-col 
       justify-center items-start gap-10'>
         <div className='flex flex-col justify-center items-start gap-4'>
-          <h1 data-aos="zoom-in" className='text-red-500 dark:text-white'>PROPERTIES</h1>
+          <h1 data-aos="zoom-in" className='text-red-500'>PROPERTIES</h1>
           <h1 data-aos="zoom-in" className='text-black text-4xl font-semibold 
-          dark:text-white'>Explore the latest</h1>
+          '>Explore the latest</h1>
         </div>
 
         {/* properties grid start from here */}

@@ -31,7 +31,7 @@ const Header = () => {
       link:"Properties", path:"properties"
     },
     {
-      link:"Service", path:"service"
+      link:"Services", path:"services"
     },
     {
       link:"Testimonials", path:"testimonials"
@@ -42,7 +42,7 @@ const Header = () => {
   ]
 
   return (
-    <nav className={`${darkMode ? "dark bg-black" : "light bg-[#f3f3f3]"} flex justify-between items-center
+    <nav className={`${darkMode ? "dark bg-black" : "light bg-[#180c0c2f]"} flex justify-between items-center
     gap-4 lg:px-20 px-4 py-3 sticky top-0 z-30`}>
       <div id='logo'>
         <img src={logo} alt="company logo" className='lg:w-[150px] w-[120px] dark:invert' />
