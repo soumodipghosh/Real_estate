@@ -43,17 +43,17 @@ const PopularArea = () => {
         items-center gap-6'>
           <div data-aos="slide-up" data-aos-delay="200" className='flex justify-center lg:items-center gap-8 
           w-full'>
-            <h1 className='text-black text-7xl font-semibold dark:text-white'>5K</h1>
+            <h1 className='text-black text-7xl font-semibold'>5K</h1>
             <h1 className='mt-2 font-semibold'>ACTIVE<br></br>LISTINGS</h1>
           </div>
           <div data-aos="slide-up" data-aos-delay="200" className='flex justify-center lg:items-center gap-8 
           w-full'>
-            <h1 className='text-black text-7xl font-semibold dark:text-white'>5K</h1>
+            <h1 className='text-black text-7xl font-semibold'>5K</h1>
             <h1 className='mt-2 font-semibold'>ACTIVE<br></br>LISTINGS</h1>
           </div>
           <div data-aos="slide-up" data-aos-delay="200" className='flex justify-center lg:items-center gap-8 
           w-full'>
-            <h1 className='text-black text-7xl font-semibold dark:text-white'>5K</h1>
+            <h1 className='text-black text-7xl font-semibold'>5K</h1>
             <h1 className='mt-2 font-semibold'>ACTIVE<br></br>LISTINGS</h1>
           </div>
         </div>
