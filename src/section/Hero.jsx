@@ -23,10 +23,9 @@ const Hero = () => {
       <section id='hero' className='w-[95%] h-[600px] m-auto bg-cover bg-center 
       rounded-xl flex justify-center flex-col items-start lg:px-28 px-10 gap-7 z-20'
       style={{backgroundImage:`url(${heroimg})`}}>
-      <h1 data-aos="zoom-in" className='text-6xl text-white font-semibold
-      lg:pr-[500px] pr-0 lg:leading-[70px] leading-[60px]'>Find your next Home in India</h1>
-      <p data-aos="zoom-in" className='text-white text-xl lg:pr-[500px] pr-0'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore eius facere suscipit ipsa 
-      blanditiis harum fugit, consequuntur doloremque exercitationem sunt hic quisquam natus consectetur.</p>
+      <h1 data-aos="zoom-in" className='text-4xl text-white font-bold
+      lg:pr-[500px] pr-0 lg:leading-[70px] leading-[60px]'>Find your next Home in <span className='text-amber-600'>INDIA</span></h1>
+      <p data-aos="zoom-in" className='text-white text-xl lg:pr-[500px] pr-0 font-semibold'>Discover your dream home with us. Whether you're buying, selling, or renting, we offer personalized real estate solutions tailored to your needs. Our expert team ensures a seamless and stress-free experience from start to finish.</p>
       </section>
     </div>
 
